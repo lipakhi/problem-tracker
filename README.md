@@ -1,32 +1,28 @@
-# Problem Tracker
+# 🧠 Problem Tracker
 
-**URL**: 
+A minimal and sleek DSA problem tracker where you can add problems with date, difficulty, and topic, then view them in list or grid view. Includes search by date and a clean, responsive UI.
 
+---
 
-Follow these steps:
+## 🔗 Live Demo
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+[View Live Site](https://your-live-demo-link.com)
 
 
-## What technologies are used for this project?
+## 🛠️ Tech Stack
 
 This project is built with:
-
 - Vite
 - TypeScript
 - React
 - shadcn-ui
 - Tailwind CSS
 
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/lipakhi/problem-tracker.git
+cd problem-tracker
+npm install
+npm run dev
